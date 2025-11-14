@@ -1,5 +1,5 @@
 
-# Proyecto Unity 3D - Helix-like Template (Entrega Actividad 4.2)
+## 4.2. Movimiento en el espacio tridimensional
 
 Este repositorio contiene un proyecto Unity **lista para abrir** que implementa:
 - Movimiento en el espacio 3D (avance automático y control lateral).
