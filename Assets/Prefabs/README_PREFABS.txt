@@ -1,0 +1,1 @@
+Add prefabs (obstacles, platforms) from Unity editor.
